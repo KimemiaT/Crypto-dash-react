@@ -1,5 +1,4 @@
-**Crypto Dashboard Tracker
-**
+**Crypto Dashboard Tracker**
 A fully responsive cryptocurrency dashboard tracker built with React and Tailwind CSS, allowing users to monitor real-time crypto prices, market caps, and historical trends with interactive charts.
 
 <img src="darkmode.png" >
@@ -7,8 +6,7 @@ A fully responsive cryptocurrency dashboard tracker built with React and Tailwin
 <img src="lightmode.png">
 
 
-**Features
-**
+**Features**
     Realtime Cryptocurrency Prices – Track top 20 coins by market cap.
     
     Mini Sparkline Charts – Each coin card shows a 7-day mini chart.
@@ -35,8 +33,9 @@ A fully responsive cryptocurrency dashboard tracker built with React and Tailwin
     
     Other: Axios for API requests
 
-**Project Setup
-**
+**Project Setup**
+
+
     Clone the repository:
     
     git clone https://github.com/KimemiaT/crypto-dashboard.git
@@ -46,8 +45,7 @@ A fully responsive cryptocurrency dashboard tracker built with React and Tailwin
     cd crypto-dashboard
 
 
-**Install dependencies:
-**
+**Install dependencies:**
     
     npm install
     
