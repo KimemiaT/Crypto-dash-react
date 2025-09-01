@@ -43,15 +43,15 @@ Project Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/crypto-dashboard.git
+git clone https://github.com/KimemiaT/crypto-dashboard.git
 cd crypto-dashboard
 
 
 Install dependencies:
 
-npm install
+``npm install
 
 
 Run the development server:
 
-npm run dev
+npm run dev``
