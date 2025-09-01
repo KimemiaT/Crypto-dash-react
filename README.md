@@ -57,3 +57,7 @@ A fully responsive cryptocurrency dashboard tracker built with React and Tailwin
     Run the development server:
     
     npm run dev
+
+Access it here:
+
+https://crypto-dash-react-m5lof5vx3-tracey-ndutas-projects.vercel.app/
