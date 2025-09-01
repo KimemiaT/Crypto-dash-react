@@ -1,12 +1,57 @@
-# React + Vite
+Crypto Dashboard Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive cryptocurrency dashboard tracker built with React and Tailwind CSS, allowing users to monitor real-time crypto prices, market caps, and historical trends with interactive charts.
 
-Currently, two official plugins are available:
+<img src="darkmode.png" >
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="lightmode.png">
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features
+
+Realtime Cryptocurrency Prices – Track top 20 coins by market cap.
+
+Mini Sparkline Charts – Each coin card shows a 7-day mini chart.
+
+Interactive Historical Charts – Select a coin to view detailed 7-day price chart.
+
+Search Functionality – Filter coins by name.
+
+Dark Mode Support – Toggle between light and dark themes.
+
+Responsive Design – Optimized for desktop, tablet, and mobile screens.
+
+Modern Layout – Smooth animations and card-based design with Framer Motion.
+
+Tech Stack
+
+Frontend: React (Functional Components + Hooks)
+
+Styling: Tailwind CSS
+
+Charts: Chart.js via react-chartjs-2
+
+Animations: Framer Motion
+
+API: CoinGecko (no authentication required)
+
+Deployment: Vercel / Netlify / Firebase Hosting
+
+Other: Axios for API requests
+
+Project Setup
+
+Clone the repository:
+
+git clone https://github.com/yourusername/crypto-dashboard.git
+cd crypto-dashboard
+
+
+Install dependencies:
+
+npm install
+
+
+Run the development server:
+
+npm run dev
