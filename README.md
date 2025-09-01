@@ -1,4 +1,6 @@
 **Crypto Dashboard Tracker**
+
+
 A fully responsive cryptocurrency dashboard tracker built with React and Tailwind CSS, allowing users to monitor real-time crypto prices, market caps, and historical trends with interactive charts.
 
 <img src="darkmode.png" >
@@ -7,6 +9,8 @@ A fully responsive cryptocurrency dashboard tracker built with React and Tailwin
 
 
 **Features**
+
+
     Realtime Cryptocurrency Prices – Track top 20 coins by market cap.
     
     Mini Sparkline Charts – Each coin card shows a 7-day mini chart.
