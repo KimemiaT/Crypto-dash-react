@@ -1,5 +1,5 @@
-Crypto Dashboard Tracker
-
+**Crypto Dashboard Tracker
+**
 A fully responsive cryptocurrency dashboard tracker built with React and Tailwind CSS, allowing users to monitor real-time crypto prices, market caps, and historical trends with interactive charts.
 
 <img src="darkmode.png" >
