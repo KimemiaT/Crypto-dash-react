@@ -139,7 +139,7 @@ const App = () => {
                       : "text-red-500 font-semibold"
                   }
                 >
-                  24h: {coin.price_change_percentage_24h.toFixed(2)}%
+24h: {(coin.price_change_percentage_24h * 100).toFixed(2)}%
                 </p>
               </div>
               {/* Mini Sparkline Chart */}
